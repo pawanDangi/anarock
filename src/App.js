@@ -7,7 +7,7 @@ import Panels from './components/Panels';
 const useStyles = makeStyles(theme => ({
   root: {
     padding: theme.spacing(3, 2),
-    width: '80%',
+    width: '90%',
     margin: 'auto',
     marginTop: '60px'
   }
